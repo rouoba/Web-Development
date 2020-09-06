@@ -1,0 +1,30 @@
+body {
+    background-color:beige;
+}
+
+hr {
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    
+    width: 10%;
+}
+
+h1 {
+color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+    text-align: center;
+}
+
+ul , ol {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}

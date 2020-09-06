@@ -1,0 +1,53 @@
+/*  HTML ELEMENTS  */
+body {
+    /* text-align: center; */
+    margin: 0; 
+    background-color: #e3dfc8;
+    text-align: center;
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+/* Header */
+#header {
+    margin-bottom: 20px;
+}
+.header_footer_img {
+    width: 100%;
+}
+
+/* Nav Bar */
+
+
+/* Description */
+.description {
+    background-color: #f5f1da;
+}
+.row {
+    margin: 20px;
+}
+.side_pic {
+    width: 100%;
+}
+.myCol {
+    padding: 20px 10px;
+}
+.games_img {
+    width: 100%;
+    margin: 20px;
+}
+.description_img {
+    width: 40%;
+}
+
+
+/* Footer */
+.copyright {
+    text-align: center;
+    /* background-color: #e3dfc8; */
+}
