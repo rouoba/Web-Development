@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: red;
+    font-size: 100px;
+}
+
+img {
+    background-color: red;
+    /* padding: 10px; */
+}
+
+img:hover {
+    background-color: yellow;
+}
+
+.para {
+    color: purple;
+}
+
+#heading1 {
+    color: green;
+}
